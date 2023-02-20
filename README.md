@@ -1,4 +1,4 @@
-# Flutter Web Sign Up
+# Flutter Sign Up Web
 
 ## Setup
 
